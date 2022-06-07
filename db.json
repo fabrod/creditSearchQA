@@ -1,9 +1,1252 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "results": [
+        {
+            "applications": [
+                {
+                    "applicationId": "bb33fc4a-a9ec-4bb1-ac02-960ca476e728",
+                    "vehicle": {
+                        "stockNumber": "21499658",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Darla",
+                        "middleName": null,
+                        "lastName": "FFAC",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "7f5477fb-d62a-40f1-99f6-72748fa4c20b"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIQCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "131078",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T14:07:46.4732606-04:00",
+                        "epoch": 1649959666
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7291"
+                },
+                {
+                    "applicationId": "64c30b46-5a2a-4a08-b0eb-305af26a39d7",
+                    "vehicle": {
+                        "stockNumber": "21499658",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Darla",
+                        "middleName": null,
+                        "lastName": "Demo",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "7f5477fb-d62a-40f1-99f6-72748fa4c20b"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIPCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "131078",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T14:06:10.2926632-04:00",
+                        "epoch": 1649959570
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7291"
+                },
+                {
+                    "applicationId": "8e8bd08b-1a63-496f-aad6-d221943be591",
+                    "vehicle": {
+                        "stockNumber": "22489150",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "James",
+                        "middleName": null,
+                        "lastName": "Hitt",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "e1e93db7-fb05-422a-b71a-a7b64d8d2f88"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIOCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "999020",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T13:41:53.2257313-04:00",
+                        "epoch": 1649958113
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7102"
+                },
+                {
+                    "applicationId": "7d1b8349-13fb-4dce-b391-92cbf9364508",
+                    "vehicle": {
+                        "stockNumber": "22394425",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Emily",
+                        "middleName": null,
+                        "lastName": "FFAC",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "421ab33e-bebf-4463-b555-2b64021c602e"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSINCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": null,
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T13:09:30.7681758-04:00",
+                        "epoch": 1649956170
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "6032"
+                },
+                {
+                    "applicationId": "61f2a00d-87f3-40d9-88b1-a79b7614547b",
+                    "vehicle": {
+                        "stockNumber": "22403450",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "James",
+                        "middleName": null,
+                        "lastName": "Hitt",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "e1e93db7-fb05-422a-b71a-a7b64d8d2f88"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIMCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "999020",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T11:44:10.660004-04:00",
+                        "epoch": 1649951050
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7102"
+                },
+                {
+                    "applicationId": "fa551a47-9799-4d8c-94c8-8ad333769d61",
+                    "vehicle": {
+                        "stockNumber": "22402993",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "James",
+                        "middleName": null,
+                        "lastName": "Hitt",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "e1e93db7-fb05-422a-b71a-a7b64d8d2f88"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSILCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "999020",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T11:23:55.8124757-04:00",
+                        "epoch": 1649949835
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7102"
+                },
+                {
+                    "applicationId": "ffba9f6d-52d2-4f01-8392-95d3ff4460e4",
+                    "vehicle": {
+                        "stockNumber": "21963207",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "James",
+                        "middleName": null,
+                        "lastName": "Hitt",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "e1e93db7-fb05-422a-b71a-a7b64d8d2f88"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIKCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "9502869",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T10:28:39.0030239-04:00",
+                        "epoch": 1649946519
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7102"
+                },
+                {
+                    "applicationId": "ed42924a-3c8b-4273-91fa-9ad351b320b4",
+                    "vehicle": {
+                        "stockNumber": "704699287",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Conner",
+                        "middleName": null,
+                        "lastName": "Mark",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "abcc4fcc-ddc6-4364-bfa9-2f7613eb41dd"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIJCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "1234567",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T09:43:21.8056499-04:00",
+                        "epoch": 1649943801
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7242"
+                },
+                {
+                    "applicationId": "d81305df-76f7-4e3a-a20f-04ec8c1e504a",
+                    "vehicle": {
+                        "stockNumber": "2143692916",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Benjamin",
+                        "middleName": null,
+                        "lastName": "Gerald",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "abe199d5-ba22-4289-bf69-5435129cf2df"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIICwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "1234567",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T09:43:13.9479476-04:00",
+                        "epoch": 1649943793
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7242"
+                },
+                {
+                    "applicationId": "300c73d1-2225-4250-86d5-4f13f83aaf94",
+                    "vehicle": {
+                        "stockNumber": "212250424",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Romeo",
+                        "middleName": null,
+                        "lastName": "FFAA",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "eada5781-3f6b-46d2-9995-1c97c1d81a25"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIHCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "1234567",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T09:02:37.6898424-04:00",
+                        "epoch": 1649941357
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7242"
+                },
+                {
+                    "applicationId": "f6d22111-1ede-4fbb-8261-3d529afdae52",
+                    "vehicle": {
+                        "stockNumber": "725063712",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Alberto",
+                        "middleName": null,
+                        "lastName": "FFAA",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "5819d09a-975d-43c5-8874-0d1427fb7adf"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIGCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "1234567",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T09:02:34.1901664-04:00",
+                        "epoch": 1649941354
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7242"
+                },
+                {
+                    "applicationId": "33ab3174-2450-4f83-91b1-85dc36fa36d3",
+                    "vehicle": {
+                        "stockNumber": "50025013",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Brice",
+                        "middleName": null,
+                        "lastName": "Hansen",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "f1b4793e-6670-483c-b075-8f3d20590954"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIFCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": null,
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T08:29:21.5005724-04:00",
+                        "epoch": 1649939361
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7662"
+                },
+                {
+                    "applicationId": "8dd7f6f1-50c0-41c0-aa4e-8b2013bf13a1",
+                    "vehicle": {
+                        "stockNumber": "50025012",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Desiree",
+                        "middleName": null,
+                        "lastName": "Ebert",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "41c2f1a1-6451-424a-a014-deba8e9431f0"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIECwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": null,
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-14T08:24:46.012999-04:00",
+                        "epoch": 1649939086
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7662"
+                },
+                {
+                    "applicationId": "d501a729-2f71-4d27-80e0-43e1cd198283",
+                    "vehicle": {
+                        "stockNumber": "474141233",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Keith",
+                        "middleName": null,
+                        "lastName": "Marshall",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "73e7aca0-6ed3-47b1-833e-abc3f89272db"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIDCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "1234567",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-13T20:54:45.4102111-04:00",
+                        "epoch": 1649897685
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7242"
+                },
+                {
+                    "applicationId": "2f747b8a-849e-44fa-b179-598d8e4f20ec",
+                    "vehicle": {
+                        "stockNumber": "1190424125",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Neil",
+                        "middleName": null,
+                        "lastName": "Everett",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "f1406289-32a9-4974-bc59-85f902af0e00"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSICCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "1234567",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-13T20:54:36.2083452-04:00",
+                        "epoch": 1649897676
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7242"
+                },
+                {
+                    "applicationId": "af89ce21-4762-41ca-8824-97ddd3e7ca85",
+                    "vehicle": {
+                        "stockNumber": "983122575",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Gerald",
+                        "middleName": null,
+                        "lastName": "Roberto",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "2b443590-9991-42f5-817b-2e4bbf7849d7"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIBCwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "1234567",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-13T20:54:23.3825395-04:00",
+                        "epoch": 1649897663
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7242"
+                },
+                {
+                    "applicationId": "5356a4b0-2783-488b-97b7-ae4d379ee2a3",
+                    "vehicle": {
+                        "stockNumber": "486188303",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Peter",
+                        "middleName": null,
+                        "lastName": "Joey",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "aedcdd74-f5cb-445b-86db-dc80a1b47bf1"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSIACwAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "1234567",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-13T20:54:12.4725437-04:00",
+                        "epoch": 1649897652
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7242"
+                },
+                {
+                    "applicationId": "f4b29fab-ec58-4676-8631-7f0f31eae7e7",
+                    "vehicle": {
+                        "stockNumber": "22403060",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "James",
+                        "middleName": null,
+                        "lastName": "Hitt",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "e1e93db7-fb05-422a-b71a-a7b64d8d2f88"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzANX7XSL-CgAAAAAAAA==",
+                    "employee": {
+                        "employeeId": "999020",
+                        "firstName": null,
+                        "middleName": null,
+                        "lastName": null
+                    },
+                    "createdDate": {
+                        "date": "2022-04-13T20:05:21.6720905-04:00",
+                        "epoch": 1649894721
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7102"
+                }
+            ],
+            "totalResults": 18,
+            "page": 0,
+            "applicationType": 0
+        },
+        {
+            "applications": [
+                {
+                    "applicationId": "16286867-4984-46aa-a21f-0257a7ab9845",
+                    "vehicle": {
+                        "stockNumber": "18698679",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "John",
+                        "middleName": null,
+                        "lastName": "FTE",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "00000000-0000-0000-0000-000000000000"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzAKgOLSqPMgAAAAAAAA==",
+                    "employee": null,
+                    "createdDate": {
+                        "date": "2022-04-14T19:29:34",
+                        "epoch": 0
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7122"
+                },
+                {
+                    "applicationId": "aa876b8b-99ba-4bdc-80b0-fb75f3dfcab4",
+                    "vehicle": {
+                        "stockNumber": "18698679",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "John",
+                        "middleName": null,
+                        "lastName": "FTE",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "00000000-0000-0000-0000-000000000000"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzAKgOLSqRMgAAAAAAAA==",
+                    "employee": null,
+                    "createdDate": {
+                        "date": "2022-04-14T18:54:49",
+                        "epoch": 0
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7122"
+                },
+                {
+                    "applicationId": "762809cd-07bf-4477-ae89-9cd8acb86fed",
+                    "vehicle": {
+                        "stockNumber": "18698679",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "John",
+                        "middleName": null,
+                        "lastName": "FTE",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "00000000-0000-0000-0000-000000000000"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzAKgOLSqQMgAAAAAAAA==",
+                    "employee": null,
+                    "createdDate": {
+                        "date": "2022-04-14T18:30:48",
+                        "epoch": 0
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7122"
+                },
+                {
+                    "applicationId": "032d4f14-269f-4f8d-b47e-289ef0e99d74",
+                    "vehicle": {
+                        "stockNumber": "18698679",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "John",
+                        "middleName": null,
+                        "lastName": "FTE",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "00000000-0000-0000-0000-000000000000"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzAKgOLSqOMgAAAAAAAA==",
+                    "employee": null,
+                    "createdDate": {
+                        "date": "2022-04-14T17:52:10",
+                        "epoch": 0
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7122"
+                },
+                {
+                    "applicationId": "67f0ef3c-6687-4303-ba60-febd349f1a9f",
+                    "vehicle": {
+                        "stockNumber": null,
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Kelsey",
+                        "middleName": null,
+                        "lastName": "FFAJ",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "00000000-0000-0000-0000-000000000000"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzAKgOLSqMMgAAAAAAAA==",
+                    "employee": null,
+                    "createdDate": {
+                        "date": "2022-04-14T13:45:12.6896143-04:00",
+                        "epoch": 0
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7172"
+                },
+                {
+                    "applicationId": "bf808093-79f0-40f4-a277-2b1d79f01ae4",
+                    "vehicle": {
+                        "stockNumber": null,
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Kelsey",
+                        "middleName": null,
+                        "lastName": "FFAP",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "00000000-0000-0000-0000-000000000000"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzAKgOLSqLMgAAAAAAAA==",
+                    "employee": null,
+                    "createdDate": {
+                        "date": "2022-04-14T13:44:07.3010883-04:00",
+                        "epoch": 0
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7172"
+                },
+                {
+                    "applicationId": "3d7b98ca-5c78-4878-9b26-658fb5e2f92e",
+                    "vehicle": {
+                        "stockNumber": "18698679",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "Kelsey",
+                        "middleName": null,
+                        "lastName": "FFAP",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "00000000-0000-0000-0000-000000000000"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzAKgOLSqKMgAAAAAAAA==",
+                    "employee": null,
+                    "createdDate": {
+                        "date": "2022-04-14T13:42:40.0042601-04:00",
+                        "epoch": 0
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7172"
+                },
+                {
+                    "applicationId": "2fc03c95-af08-4013-a98b-d791a5ce2a3a",
+                    "vehicle": {
+                        "stockNumber": "18698679",
+                        "price": 0,
+                        "statusCode": null,
+                        "saleClass": null,
+                        "make": null,
+                        "model": null,
+                        "modelYear": 0,
+                        "trim": null,
+                        "body": null,
+                        "mileage": 0,
+                        "transmissionType": null,
+                        "transmissionSpeed": null,
+                        "hasAirConditioning": false,
+                        "msrp": 0,
+                        "vin": null
+                    },
+                    "buysCustomer": {
+                        "firstName": "John",
+                        "middleName": null,
+                        "lastName": "FTE",
+                        "suffix": null,
+                        "email": null,
+                        "phoneNumbers": null,
+                        "housingMonthlyPayment": 0,
+                        "housingStatus": null,
+                        "addresses": null,
+                        "employments": null,
+                        "additionalIncomes": null,
+                        "customerId": "00000000-0000-0000-0000-000000000000"
+                    },
+                    "decisionsSMI": null,
+                    "documentId": "ITAzAKgOLSqNMgAAAAAAAA==",
+                    "employee": null,
+                    "createdDate": {
+                        "date": "2022-04-14T16:05:06",
+                        "epoch": 0
+                    },
+                    "decisions": null,
+                    "status": "Invalid",
+                    "storeId": "7122"
+                }
+            ],
+            "totalResults": 8,
+            "page": 0,
+            "applicationType": 1
+        }
+    ]
 }
